@@ -1,0 +1,11 @@
+candidate_id,name,email,phone,education,experience_years,skills,projects,expected_role
+1,Rahul Sharma,rahul.sharma@example.com,9876543210,B.Tech CSE,2,"Python, SQL, Machine Learning, Pandas, Scikit-learn",Credit Card Fraud Detection,ML Engineer
+2,Priya Singh,priya.singh@example.com,9123456780,MCA,1,"Java, Spring Boot, MySQL, Git",Inventory Management System,Java Developer
+3,Aman Verma,aman.verma@example.com,9988776655,B.Tech IT,3,"React, HTML, CSS, JavaScript, Git",E-commerce Website,Frontend Developer
+4,Neha Gupta,neha.gupta@example.com,9811122233,B.Tech CSE,1,"Python, Pandas, Excel, SQL, Power BI",Sales Dashboard,Data Analyst
+5,Rohit Mishra,rohit.mishra@example.com,9765432109,B.Tech CSE,4,"Python, TensorFlow, Deep Learning, Docker, Git",Image Classification,AI Engineer
+6,Sneha Yadav,sneha.yadav@example.com,9345678912,B.Tech IT,2,"Node.js, Express, MongoDB, REST API",Task Manager API,Backend Developer
+7,Vikas Kumar,vikas.kumar@example.com,9456781234,B.Tech CSE,2,"Python, SQL, Statistics, Machine Learning",Customer Churn Prediction,Data Scientist
+8,Pooja Patel,pooja.patel@example.com,9567812345,BCA,1,"Flutter, Firebase, Dart",Expense Tracker,Mobile Developer
+9,Arjun Rao,arjun.rao@example.com,9789012345,B.Tech CSE,5,"AWS, Docker, Kubernetes, Linux, Git",CI/CD Pipeline,DevOps Engineer
+10,Karan Singh,karan.singh@example.com,9898989898,B.Tech CSE,2,"Python, NLP, Scikit-learn, SQL, Git",Resume Screening AI,ML Engineer

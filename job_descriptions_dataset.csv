@@ -1,0 +1,11 @@
+job_id,job_title,required_skills,min_experience,education
+1,ML Engineer,"Python, Machine Learning, SQL, Scikit-learn, Git",1,B.Tech
+2,Data Scientist,"Python, Pandas, Statistics, SQL, Machine Learning",2,B.Tech
+3,Data Analyst,"Excel, SQL, Power BI, Python",1,Graduate
+4,Java Developer,"Java, Spring Boot, MySQL, Git",1,B.Tech
+5,Frontend Developer,"React, HTML, CSS, JavaScript, Git",1,Graduate
+6,Backend Developer,"Node.js, Express, MongoDB, REST API",2,Graduate
+7,DevOps Engineer,"AWS, Docker, Kubernetes, Linux, Git",3,B.Tech
+8,AI Engineer,"Python, TensorFlow, Deep Learning, Docker",2,B.Tech
+9,Mobile Developer,"Flutter, Dart, Firebase",1,Graduate
+10,Python Developer,"Python, Flask, SQL, Git",1,Graduate
