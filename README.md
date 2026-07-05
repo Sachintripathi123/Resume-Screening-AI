@@ -63,6 +63,44 @@ The project uses **TF-IDF Vectorization** and **Cosine Similarity** to calculate
 
 ---
 
+# 🚀 Version 2 Updates
+
+Resume Screening AI has been upgraded with a more modular and ATS-style architecture.
+
+## ✨ New Features
+
+- Converted resume skills into sets for efficient comparison.
+- Converted job description skills into a required skill set.
+- Implemented skill matching using set intersection (`&`).
+- Implemented missing skill detection using set difference (`-`).
+- Calculated ATS-style match percentage for each resume.
+- Generated a detailed result table including:
+  - Candidate Name
+  - Matched Skills
+  - Missing Skills
+  - Match Percentage
+- Ranked candidates based on match percentage.
+- Refactored the project into reusable and modular functions.
+
+## 📊 Sample Output
+
+| Name | Matched Skills | Missing Skills | Match Percentage |
+|------|----------------|----------------|-----------------:|
+| Rahul Sharma | {python} | {docker, tensorflow, deep learning} | 25.0 |
+| Rohit Mishra | {python, docker, tensorflow, deep learning} | {} | 100.0 |
+---
+## 🔮 Future Improvements (Version 3)
+
+- Experience Matching
+- Education Matching
+- Certification Matching
+- Project Matching
+- Weighted ATS Score
+- Resume PDF Upload Support
+- NLP-based Skill Extraction
+- Streamlit Web Application
+---
+
 ## 👨‍💻 Author
 
 **Sachin Tripathi**
